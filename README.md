@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hola, Soy Jinson:
 Desarrollador web freelance apasionado por la creación de experiencias<br> digitales excepcionales. Especializado en tecnologías front-end como HTML,<br> CSS (incluyendo SASS) y JavaScript, con experiencia sólida en el uso de <br>herramientas como Gulp para la automatización eficiente del flujo <br>de trabajo. Mi objetivo es fusionar diseño y funcionalidad para construir <br>sitios web y aplicaciones innovadoras que inspiren y cautiven <br>a los usuarios. ¡Bienvenido a mi repositorio, donde podras explorar mi trabajo y seguir mi viaje en la evolución constante del desarrollo web!
 
 
